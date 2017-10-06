@@ -62,7 +62,7 @@ First, if you haven't already, you need to copy these files into a folder in you
 
 _You can do this with one easy click if you're using [Cloud9](http://c9.io). Just click this button:_
 
-<a href="https://c9.io/auth/github?r=https%3A%2F%2Fc9.io%2Fopen%2F%3Fclone_url%3Dgit%2540github.com%253Aomahacodeschool%252Fjavascript-starter.git"><img src="https://cl.ly/mld9/create-workspace.png" alt=""></a>
+<a href="https://c9.io/auth/github?r=https%3A%2F%2Fc9.io%2Fopen%2F%3Fclone_url%3Dgit%2540github.com%253Aomahacodeschool%252Fjavascript-starter-2.git"><img src="https://cl.ly/mld9/create-workspace.png" alt=""></a>
 
 Once you are able to access the files, open up **package.json** and add real information for your project's name, description, and your name. Don't forget to save! :)
 
